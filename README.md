@@ -10,6 +10,7 @@ To get started with UAMP please read the [full guide](docs/FullGuide.md).
 
 ![Screenshot showing UAMP's UI for browsing albums and songs](docs/images/1-browse-albums-screenshot.png "Browse albums screenshot")
 ![Screenshot showing UAMP's UI for playing a song](docs/images/2-play-song-screenshot.png "Play song screenshot")
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmatteodamico%2Fuamp.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmatteodamico%2Fuamp?ref=badge_shield)
 
 Pre-requisites
 --------------
@@ -63,3 +64,6 @@ distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
 WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.  See the
 License for the specific language governing permissions and limitations under
 the License.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmatteodamico%2Fuamp.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmatteodamico%2Fuamp?ref=badge_large)
